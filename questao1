@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo de CSS</title>
+</head>
+<body>
+    <p style="font-size: 16px; color: blue; text-align: center;">Este é um parágrafo com estilo inline.</p>
+
+    <p style="color: red;">Este é um parágrafo com cor vermelha.</p>
+
+    <p style="text-align: right;">Este é um parágrafo alinhado à direita.</p>
+
+    <p style="font-size: 20px;">Este é um parágrafo com tamanho de fonte maior.</p>
+
+    <h1 class="titulo1">Título H1</h1>
+    <h2 class="titulo2">Título H2</h2>
+    <h3 class="titulo1">Título H3</h3>
+    <h4 class="titulo2">Título H4</h4>
+
+    <meta name="author" content="Esli Janai">
+    <meta name="keywords" content="web">
+    <meta name="matricula" content="200009117">
+    <meta name="description" content="Atividade sobre CSS">
+
+    <style>
+
+        .titulo1 {
+            color: green;
+            text-align: center;
+            background-color: yellow;
+        }
+
+
+        .titulo2 {
+            color: purple;
+            text-align: left;
+            background-color: pink;
+        }
+    </style>
+</body>
+</html>
